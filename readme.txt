@@ -1,2 +1,3 @@
-oku beni dosyasý düzenleme yoktur
-ilk deðiþiklik not defteri uzerinden
+oku beni dosyasï¿½ dï¿½zenleme yoktur
+ilk deï¿½iï¿½iklik not defteri uzerinden...
+VS code uzerÄ±nden ilk degisiklik.
